@@ -1,0 +1,46 @@
+nav {
+	font-family: 'Roboto', sans-serif;
+	color: #424342;
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: #424342;
+	font-size: 210%;
+	text-align: center;
+}
+
+img {
+	width: 1000px; 
+	height: 400px;
+	display: block;
+	margin: auto;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	color: #424342;
+	font-size: 130%;
+	background-color: #96C0B7
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	color: #424342;
+	font-size: 100%;
+}
+
+footer {
+	font-family: 'Roboto', sans-serif;
+	color: #424342;
+	font-weight: bold;	
+}
+
+nav ul li {
+	display: inline-block;
+}
